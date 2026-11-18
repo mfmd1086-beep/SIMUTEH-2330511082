@@ -1,0 +1,7 @@
+sumber,mentah,mentah,praproses,praproses
+kanal,Gray,R,Gray,R
+metode,,,,
+Sobel,0.801,0.596,0.805,0.897
+Prewitt,0.827,0.647,0.797,0.911
+LoG,0.759,0.933,0.751,0.936
+Canny,0.738,0.979,0.744,0.972

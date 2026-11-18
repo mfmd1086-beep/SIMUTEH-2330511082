@@ -1,0 +1,5 @@
+aturan,berat,ringan,sehat,sehat_palsu
+luas + kebulatan,0.95,0.65,0.45,4
+luas + kebulatan + rasio,0.6,0.35,0.4,4
+luas >= 20,0.95,1.35,1.05,6
+tanpa saring,1.35,1.75,1.2,6

@@ -1,0 +1,11 @@
+varian,galat_abs_persen,korelasi,akurasi,sehat_dinilai_bercak,bercak_dinilai_sehat
+"bawaan (k4, elips5, filter penuh)",0.335,0.967,0.983,0,1
+k=3,0.322,0.969,0.967,1,1
+k=6,0.439,0.957,0.95,1,1
+SE elips 3,0.231,0.978,0.983,0,1
+SE elips 7,0.379,0.962,0.967,0,1
+tanpa opening,0.425,0.956,0.95,0,2
+tanpa closing,0.275,0.975,0.967,1,1
+tanpa filter bentuk,0.46,0.927,0.9,4,1
+tanpa filter luas,0.342,0.966,0.967,1,1
+persegi 5,0.366,0.959,0.933,2,1
